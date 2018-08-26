@@ -1,5 +1,5 @@
-print("*************************BY DNT FURY***************************")
-#by developerfury@gmail.com                             
+#dntfury
+                            
       
 import requests
 from itertools import cycle
