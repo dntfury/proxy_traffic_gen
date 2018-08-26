@@ -25,6 +25,6 @@ for i in range(1,50):
         print("REQUESTED VIA:",proxy)
         print(response)
     except:
-        #When proxy will get connection errors. We will have to try the entire request using another proxy to work. 
-        #We will just skip that one 
-        print("Skipping. Connnection error")
+        #When proxy will get connection errors. 
+        # just leave that  
+        print("skipping.  error")
