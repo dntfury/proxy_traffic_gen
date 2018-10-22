@@ -8,4 +8,4 @@ Python<br>
 
 <b>Future extensions</b><br>
 1.Bot capable of traversing websites for testing.<br>
-2.Bot capable to too generate traffic for monetization.
+2.Bot capable to generate traffic for monetization.
